@@ -21,4 +21,8 @@
 <code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
 <code><img title="C#" alt="CCharp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" /></code>
 
-![snake animation](https://github.com/AminSBU/AminSBU/blob/output/github-contribution-grid-snake2.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
