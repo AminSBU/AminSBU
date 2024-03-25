@@ -1,1 +1,1 @@
-<img alt="guilyx's Spotify" width="173px" length="631px" src="https://github.com/AminSBU/AminSBU/blob/master/welcome.gif" />
+<img alt="Welcome to Amin Bakhshoodeh Profile" src="https://github.com/AminSBU/AminSBU/blob/master/welcome.gif" />
