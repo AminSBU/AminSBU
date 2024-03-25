@@ -8,7 +8,7 @@
 </a>
 
 <a href="https://www.linkedin.com/in/amin-bakhshoodeh/">
-    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/TheNaserov&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
+    <img alt="link to my LinkedIn" src="https://img.shields.io/static/v1?label&message=/in/Amin-Bakhshoodeh&color=0A66C2&style=for-the-badge&logo=linkedin" height="22px" />
 </a>
 
 <a href="mailto:omid.elc88@gmail.com">
