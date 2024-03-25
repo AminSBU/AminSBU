@@ -14,3 +14,9 @@
 <a href="mailto:omid.elc88@gmail.com">
     <img alt="link to send me an email" src="https://img.shields.io/static/v1?label&message=omid.elc88@gmail.com&color=whitesmoke&style=for-the-badge&logo=gmail" height="22px" />
 </a>
+
+<h2>:bulb: Languages & Frameworks I code in</h2>
+<code> <img title="C++" alt="C++" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
+<code><img title="C" alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></code>
+<code><img title="HTML 5" alt="html5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+<code><img title="C#" alt="CCharp" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/csharp.svg" /></code>
