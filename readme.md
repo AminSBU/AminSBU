@@ -1,1 +1,1 @@
-<img alt="Welcome to Amin Bakhshoodeh Profile" src="https://github.com/AminSBU/AminSBU/blob/master/welcome.gif" />
+<img class="center" alt="Welcome to Amin Bakhshoodeh Profile" src="https://github.com/AminSBU/AminSBU/blob/master/welcome.gif" />
