@@ -31,6 +31,6 @@
     <summary>Profile visitors</summary>
     <p align="center">:round_pushpin: Profile visitors</p>
     <div align="center">
-        <img alt="visitors counter" src="https://profile-counter.glitch.me/thenaserov/count.svg">
+        <img alt="visitors counter" src="https://profile-counter.glitch.me/AminSBU/count.svg">
     </div>
 </details>
